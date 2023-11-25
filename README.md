@@ -1,5 +1,6 @@
 # Bibliotheca
-<img="(https://github.com/Day-Raval/Bibliotheca/assets/132192767/6bb3940d-d877-4355-ace6-617853dd5b24)"
+<img src="![image](https://github.com/Day-Raval/Bibliotheca/assets/132192767/406d9c78-6ea2-4ec5-ac4d-f905f776c8ad)
+"></img>
 
 
 This is a library management system that is designed to manages the following functions of a 
