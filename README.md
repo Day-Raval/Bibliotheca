@@ -1,12 +1,12 @@
 # Bibliotheca
 
-This is a library management system hat is designed to manages the following functions of a 
+This is a library management system that is designed to manages the following functions of a 
 library:-
 
 1. It helps librarian to maintain the database of new books and the books that are 
 borrowed by members along with their due dates.
 
-2. This system completely automates all your library’s activities. The best way to maintain, 
+2. This system completely automates all your library’s activities and provides the best way to maintain, 
 organize, and handle countless books systematically is to implement a library management 
 system software.
 
