@@ -1,0 +1,11 @@
+System requirements for Library Management System Project in Java using Swing
+
+Coding Language: Java
+
+Database: MySQL
+
+Tools used:-
+1)MySQL JDBC Connector
+2)MySQL Community Server
+3)Java
+4)Eclipse IDE
