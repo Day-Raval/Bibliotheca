@@ -2,6 +2,7 @@
 
 This is a library management system hat is designed to manages the following functions of a 
 library:-
+
 1. It helps librarian to maintain the database of new books and the books that are 
 borrowed by members along with their due dates.
 
