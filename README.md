@@ -3,7 +3,7 @@
 
 
 
-This is a library management system that is designed to manages the following functions of a 
+This library management system is designed to manages the following functions of a 
 library:-
 
 1. It helps librarian to maintain the database of new books and the books that are 
